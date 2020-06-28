@@ -39,6 +39,7 @@ with open('/Users/jamiesu/Desktop/main/Journals & Reflections/Journals/tally.txt
 				flag_day = False
 
 # Format and print the output
+print("\nGoogle Drive Link:\nhttps://drive.google.com/drive/folders/1Dm8moRm6BbRNiKpMSNP33ChSMRr4Kgi4")
 print(f"\nMonth: \t\t\t{month}")
 print(f"Total Days Counted: \t{count_day} days\n")
 
